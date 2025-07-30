@@ -1,0 +1,20 @@
+{
+  "name": "Lucas Index Page",
+  "short_name": "LucasIndex",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffc0cb",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/lucgei231/lucgei231.github.io/refs/heads/main/17539043665892402389989301402874.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/lucgei231/lucgei231.github.io/refs/heads/main/17539043665892402389989301402874.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
